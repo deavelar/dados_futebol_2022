@@ -14,6 +14,9 @@ Concluídos:
 - Vitórias dos times da casa
 - Vitórias dos times visitante
 - Empates
+- Média de jogos por mês
+- Jogo com mais gols
+- Gráfico de jogos por mês
 
 Ainda faltam:
 - Time mais assistido
@@ -21,9 +24,7 @@ Ainda faltam:
 - Categorias de jogos do time mais assistido
 - Vitórias, empates e derrotas do time mais assistido
 - Qnt. gols time mais assistido
-- Jogo com mais gols
-- Gráfico de jogos por mês
-- Média de jogos por mês
 - Maior média de gols por região (mínimo 10 jogos)
 - Maior média de gols por campeonato (mínimo 10 jogos)
 - Maior média de gols por time (mínimo 10 jogos)
+- Os meses que eu mais assisti comparado a fase do time mais assistido
