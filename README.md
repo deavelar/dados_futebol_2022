@@ -17,13 +17,13 @@ Concluídos:
 - Média de jogos por mês
 - Jogo com mais gols
 - Gráfico de jogos por mês
-
-Ainda faltam:
-- Time mais assistido
-- Quantidade de jogos do time mais assistido
+- Top 10 times mais assistido
+- Quantidade de jogos dos times mais assistido
+- Quantidade de gols do time mais assistido
 - Categorias de jogos do time mais assistido
 - Vitórias, empates e derrotas do time mais assistido
-- Qnt. gols time mais assistido
+
+Ainda faltam:
 - Maior média de gols por região (mínimo 10 jogos)
 - Maior média de gols por campeonato (mínimo 10 jogos)
 - Maior média de gols por time (mínimo 10 jogos)
